@@ -20,5 +20,5 @@
   <a href = "julianodeandradedantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliano-de-andrade-dantas-rodrigues-9ab5b2216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-  src="![ace-ace-one-piece](https://user-images.githubusercontent.com/102887266/161409474-88cc1203-a1bf-4417-a2a6-49e60cf5723c.gif)">
+
+ 
