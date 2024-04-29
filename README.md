@@ -1,4 +1,4 @@
-## Olá, me chamo JulianoDADR!!!
+## Olá, me chamo Juliano!!!
 
 <div align="center">
   <a href="https://github.com/JulianoDADR">
