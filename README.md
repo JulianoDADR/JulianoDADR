@@ -10,14 +10,14 @@
     <h1> softwares e tecnologias</h1>
        <img align="center" alt="Juliano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-       <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg">
+       <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://github.com/patrickpiccini/devicons/blob/main/icons/light/MySQL.svg">
        <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/github.svg">
   <div>
 
  <div style="display: inline_block"><br>
    <h1> Linguagens de Programações</h1>
-  <img align="center" alt="Juliano-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Juliano-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Juliano-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Juliano-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
