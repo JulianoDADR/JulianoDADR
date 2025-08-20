@@ -12,13 +12,9 @@
        <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
        <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
        <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/github.svg">
+       <img align="center" alt="Juliano-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+       <img align="center" alt="Juliano-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <div>
-
- <div style="display: inline_block"><br>
-   <h1> Linguagens de Programações</h1>
-   <img align="center" alt="Juliano-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Juliano-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
 
 ##
 
