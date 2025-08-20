@@ -7,7 +7,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-    <h1> softwares e tecnologias</h1>
+    <h1> Softwares e Tecnologias</h1>
        <img align="center" alt="Juliano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
        <img align="center" alt="Juliano-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
